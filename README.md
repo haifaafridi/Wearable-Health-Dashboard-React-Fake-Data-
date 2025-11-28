@@ -77,7 +77,7 @@ Make sure you have **Node.js** installed on your machine.
 
 ## 📂 Project Structure
 
-
+```text
 ├── public/              # Static assets
 ├── src/
 │   ├── assets/          # Images and icons
