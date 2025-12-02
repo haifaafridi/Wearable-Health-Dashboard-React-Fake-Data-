@@ -77,7 +77,7 @@ Make sure you have **Node.js** installed on your machine.
 
 ## 📂 Project Structure
 
-```text
+
 ├── public/              # Static assets
 ├── src/
 │   ├── assets/          # Images and icons
@@ -90,6 +90,8 @@ Make sure you have **Node.js** installed on your machine.
 ├── package.json         # Project dependencies and scripts
 ├── tailwind.config.js   # Tailwind configuration
 └── vite.config.js       # Vite configuration
+
+
 🔮 Future Improvements
 Connect to a real API (e.g., Google Fit or Fitbit API) instead of generateData().
 
